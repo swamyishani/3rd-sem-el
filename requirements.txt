@@ -1,0 +1,5 @@
+flask>=3.0
+requests>=2.31
+cryptography>=42
+kyber-py>=1.0.0
+dilithium-py>=1.2.0
